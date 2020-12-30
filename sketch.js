@@ -6,9 +6,9 @@
 
 
 var dogImg, happyDogImg, dog, 
-database, foodS, foodStock, 
-canvas, lastFed,  
-foodObj, feed, addFood, 
+var database, foodS, foodStock;
+  var canvas, lastFed,  
+foodObj, feed, addFood,
 food1, foodCount, input, 
 milk, milkImg, gameState, 
 readState, bedRoomImg, washRoomImg, 
